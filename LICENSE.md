@@ -1,4 +1,4 @@
-# 
+# Enhance Wine for macOS with Wine for macOS top Addon: snapshot-rollback & shared-folders, the #1 addon. Includes snapshot-rollback and shared-folders for a smoother and more
 
 
 
